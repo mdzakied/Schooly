@@ -2,7 +2,7 @@
 Aplikasi web untuk mendaftar penerimaan siswa baru tahun 2021 yang dibuat menggunakan php dan framework layout tailwindcss.
 <p align="left">
 <br>
-   <img src="https://i.ibb.co/dsvh0YB/Group-4.png" border="0" width="350">
+   <img src="https://user-images.githubusercontent.com/87967665/142659620-e7fa5d24-1200-4433-b251-b671a4e33ef6.png" border="0" width="350">
 </p>
 
 ## cara instal
