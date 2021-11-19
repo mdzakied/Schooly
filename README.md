@@ -10,7 +10,7 @@ Aplikasi web untuk mendaftar penerimaan siswa baru tahun 2021 yang dibuat menggu
 1. aktifkan xampp pada modul apache dan mysql
 2. download / clone repo ini kemudian cari `import` file database "psb_online_2021.sql" pada localhost phpmyadmin
 3. jalankan aplikasi websitenya pada localhost
-4. login untuk admin | email:admin@schooly.com password: admin | dan user(sample) | email:user@schooly.com password: user |
+4. login untuk admin | email: admin@schooly.com password: admin | dan user(sample) | email: user@schooly.com password: user |
 
 ## Fitur
 
