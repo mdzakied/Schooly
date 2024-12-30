@@ -30,11 +30,21 @@
 
 --- 
 
-<h2>🛠️ Installation Steps :</h2>
+<h2>🛠️ Installation Steps </h2>
 
-1. aktifkan xampp pada modul apache dan mysql
-2. download / clone repo ini kemudian cari `import` file database "psb_online_2021.sql" pada localhost phpmyadmin
-3. jalankan aplikasi websitenya pada localhost
-4. login untuk admin | email: admin@schooly.com password: admin | dan user(sample) | email: user@schooly.com password: user |
+<p>1. Clone Repository</p>
+
+```
+git clone https://github.com/mdzakied/Schooly.git
+```
+
+<br />
+<p>2. Prepare database `import` file database "psb_online_2021.sql" pada localhost phpmyadmin and enable xampp </p>
+
+<br />
+<p>3. Running App </p>
+
+<br />
+<p>4. Login for admin | email: admin@schooly.com password: admin | and user(sample) | email: user@schooly.com password: user |</p>
 
 ---
